@@ -25,7 +25,7 @@ I have hands-on experience working in agile teams, designing databases, developi
 
 ## 🚀 Projects
 
-### 🔍 [Instagram Unfollowers Checker](https://github.com/SebasChakon/instagram-unfollowers)
+### 🔍 [Instagram Unfollowers Checker]([https://github.com/SebasChakon/instagram-unfollowers](https://gist.github.com/SebasChakon/b7f8636e019dbb00e6ee663a957aad14))
 A vanilla JavaScript browser script that identifies accounts you follow on Instagram that don't follow you back. Uses Instagram's internal GraphQL API and exports results as a CSV file.  
 `JavaScript` · `Browser Console` · `GraphQL`
 
@@ -43,7 +43,7 @@ A student productivity tool for managing tasks, exams, and schedules with calend
 
 ---
 
-### 🏥 [CSS Clinic](https://rendeerr.onrender.com)
+### 🏥 [CSS Clinic](https://github.com/SebasChakon/CSS-Clinic)
 A full-featured medical management web app connecting patients and doctors. Includes appointment booking, real-time messaging, a review system, nearby pharmacy finder, and an admin panel.  
 `Ruby on Rails` · `Tailwind CSS` · `PostgreSQL` · `Devise`
 
