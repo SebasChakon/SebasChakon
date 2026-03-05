@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Systems Engineering student at **Universidad de San Buenaventura**, Bogotá
-- 🌎 Currently on an **international exchange at Pontificia Universidad Católica de Chile**
+- 🌎 Recently on an **international exchange at Pontificia Universidad Católica de Chile**
 - 💻 Passionate about building practical, real-world software — from web apps to games
 - 🗄️ Strong background in **relational databases** and full-stack web development
 - 🤝 Experienced working in **agile teams** and delivering projects end to end
