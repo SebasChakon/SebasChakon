@@ -1,88 +1,138 @@
- Hi, I'm Sebastian Chacón 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Sebastian Chacón</h1>
+<h3 align="center">Systems Engineering Student | Full-Stack Developer | Game Dev Enthusiast | Agile Practitioner</h3>
 
-**Systems Engineering Student | Developer in Training**  
-📍 Bogotá, Colombia &nbsp;·&nbsp; ✉️ sebastianchmantilla@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-Data%20%26%20Scripting-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-Backend-CC0000?style=for-the-badge&logo=rubyonrails" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-Game%20Dev-black?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Scrum-Agile-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  📍 Bogotá, Colombia &nbsp;·&nbsp; 🌎 Exchange @ PUC Chile &nbsp;·&nbsp; ✉️ sebastianchmantilla@gmail.com
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Systems Engineering student at Universidad de San Buenaventura (Bogotá), currently on an international exchange at Pontificia Universidad Católica de Chile. I'm passionate about building practical software solutions — from web platforms and desktop systems to mobile games — always focused on clean code, good practices, and real-world impact.
-
-I have hands-on experience working in agile teams, designing databases, developing full-stack web applications, and tackling technical challenges end to end. I'm a fast learner, proactive, and always looking for opportunities to grow through meaningful projects.
+- 🎓 Systems Engineering student at **Universidad de San Buenaventura**, Bogotá
+- 🌎 Currently on an **international exchange at Pontificia Universidad Católica de Chile**
+- 💻 Passionate about building practical, real-world software — from web apps to games
+- 🗄️ Strong background in **relational databases** and full-stack web development
+- 🤝 Experienced working in **agile teams** and delivering projects end to end
+- 🚀 Fast learner, always exploring new tools and taking on new technical challenges
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · Java · JavaScript · C# · Ruby *(basic)*  
-**Web:** HTML · CSS · Bootstrap · Tailwind · JSP · Ruby on Rails *(basic)*  
-**Databases:** MySQL · PostgreSQL  
-**Tools:** Unity · Adobe Photoshop · Git · Word · Excel  
-**Methodologies:** Agile / Scrum  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cs,ruby,html,css,bootstrap,tailwind,rails,mysql,postgres,unity,git,photoshop" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🔬 Featured Projects
 
-### 🔍 [Instagram Unfollowers Checker](https://gist.github.com/SebasChakon/b7f8636e019dbb00e6ee663a957aad14)
-A vanilla JavaScript browser script that identifies accounts you follow on Instagram that don't follow you back. Uses Instagram's internal GraphQL API and exports results as a CSV file.  
-`JavaScript` · `Browser Console` · `GraphQL`
+### 🔍 Instagram Unfollowers Checker
+- Vanilla JS script running directly in the browser console
+- Uses Instagram's internal GraphQL API to paginate your following list
+- 📥 Auto-downloads a CSV with full account details
+- 📋 Copies usernames to clipboard on completion
+
+`JavaScript` · `GraphQL` · `Browser Console`
 
 ---
 
-### 📚 [PixelBooks](https://github.com/SebasChakon/pixelbooks)
-A virtual library platform designed for students who need quick access to academic and general reading resources. Features a full catalog, personal collections, and user profiles.  
+### 📚 [PixelBooks](https://github.com/sebachacón/pixelbooks)
+- Virtual library platform built for students
+- Full book catalog with personal collection support
+- User profile management
+- *(Distributed system migration coming soon)*
+
 `Java Servlets` · `JSP` · `MySQL` · `Bootstrap` · `Tomcat`
 
 ---
 
-### 🧘 [CampusZen](https://github.com/SebasChakon/campuszen)
-A student productivity tool for managing tasks, exams, and schedules with calendar integration and notifications — all in one place.  
+### 🧘 [CampusZen](https://github.com/sebachacón/campuszen)
+- Student productivity tool for managing academic life
+- Task tracking, exam scheduling, and timetable management
+- Calendar integration and smart notifications
+
 `Java Servlets` · `JSP` · `MySQL` · `Bootstrap` · `Tomcat`
 
 ---
 
-### 🏥 [CSS Clinic](https://github.com/SebasChakon/CSS-Clinic)
-A full-featured medical management web app connecting patients and doctors. Includes appointment booking, real-time messaging, a review system, nearby pharmacy finder, and an admin panel.  
+### 🏥 [CSS Clinic](https://rendeerr.onrender.com)
+- Full-featured medical management web platform
+- Appointment booking with status workflow (Pending → Confirmed → Completed)
+- 💬 Real-time patient–doctor messaging
+- 💊 Geolocation-based pharmacy finder
+- ⭐ Review system and admin panel
+
 `Ruby on Rails` · `Tailwind CSS` · `PostgreSQL` · `Devise`
 
 ---
 
-### ⚽ [HeadFull Soccer](https://github.com/SebasChakon/headfull-soccer)
-A 3D arcade soccer game featuring characters with comically oversized heads, physics-driven gameplay, and power-ups. Currently in development.  
+### ⚽ HeadFull Soccer *(In Development)*
+- 3D arcade soccer game with oversized-head characters
+- Physics-driven gameplay and power-up system
+- Built from scratch in Unity
+
 `Unity` · `C#`
 
 ---
 
 ## 💼 Work Experience
 
-**Freelance Developer** — *Open In Colombia* · Jun–Jul 2024  
-Requirement analysis, mockup design, functional testing, and delivery of a promotional website.
+**🧑‍💻 Freelance Developer** — *Open In Colombia* · Jun–Jul 2024  
+Requirement analysis, mockup design, functional & responsiveness testing, and delivery of a full promotional website.
 
-**Freelance Developer** — *Granizados Alaska* · Jun–Jul 2023  
-Designed and built a custom sales and inventory management system from scratch.
+**🧑‍💻 Freelance Developer** — *Granizados Alaska* · Jun–Jul 2023  
+Designed and built a custom sales and inventory management system from the ground up.
 
-**Commercial Advisor** — *HOUM* · Jun–Jul 2025  
-Client outreach, property information management, and commercial support.
+**📞 Commercial Advisor** — *HOUM* · Jun–Jul 2025  
+Client outreach, property information management, and commercial support operations.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Systems Engineering** — Universidad de San Buenaventura, Bogotá *(2023 – present)*
-- 🌎 **International Exchange (6th semester)** — Pontificia Universidad Católica de Chile, Santiago *(2025)*
-- 📊 **Exploratory Data Analysis in Python** — SENA *(2025)*
-- 🗄️ **MySQL Database Design** — SENA *(2025)*
-- ☕ **Java Application Development** — SENA *(2020)*
-- 🎨 **Adobe Photoshop** — SENA *(2021)*
+| Year | Degree / Course | Institution |
+|------|----------------|-------------|
+| 2023 – present | 🎓 Systems Engineering | Universidad de San Buenaventura, Bogotá |
+| 2025 | 🌎 International Exchange | Pontificia Universidad Católica de Chile |
+| 2025 | 📊 Exploratory Data Analysis in Python | SENA |
+| 2025 | 🗄️ MySQL Database Design | SENA |
+| 2021 | 🎨 Adobe Photoshop | SENA |
+| 2020 | ☕ Java Application Development | SENA |
 
 ---
 
 ## 🌐 Languages
 
-🇪🇸 Spanish — Native &nbsp;·&nbsp; 🇬🇧 English — Upper Intermediate (B1+) &nbsp;·&nbsp; 🇧🇷 Portuguese — Basic (A2)
+<p align="center">
+  🇪🇸 <strong>Spanish</strong> — Native &nbsp;·&nbsp;
+  🇬🇧 <strong>English</strong> — Upper Intermediate (B1+) &nbsp;·&nbsp;
+  🇧🇷 <strong>Portuguese</strong> — Basic (A2)
+</p>
 
 ---
 
-*Always open to collaborating on interesting projects and learning something new along the way.*
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:sebastianchmantilla@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Always building. Always learning.</strong>
+</p>
