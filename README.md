@@ -25,7 +25,7 @@ I have hands-on experience working in agile teams, designing databases, developi
 
 ## 🚀 Projects
 
-### 🔍 [Instagram Unfollowers Checker]([https://github.com/SebasChakon/instagram-unfollowers](https://gist.github.com/SebasChakon/b7f8636e019dbb00e6ee663a957aad14))
+### 🔍 [Instagram Unfollowers Checker](https://gist.github.com/SebasChakon/b7f8636e019dbb00e6ee663a957aad14)
 A vanilla JavaScript browser script that identifies accounts you follow on Instagram that don't follow you back. Uses Instagram's internal GraphQL API and exports results as a CSV file.  
 `JavaScript` · `Browser Console` · `GraphQL`
 
