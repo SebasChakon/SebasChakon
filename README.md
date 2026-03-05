@@ -25,19 +25,19 @@ I have hands-on experience working in agile teams, designing databases, developi
 
 ## 🚀 Projects
 
-### 🔍 [Instagram Unfollowers Checker](https://github.com/sebachacón/instagram-unfollowers)
+### 🔍 [Instagram Unfollowers Checker](https://github.com/SebasChakon/instagram-unfollowers)
 A vanilla JavaScript browser script that identifies accounts you follow on Instagram that don't follow you back. Uses Instagram's internal GraphQL API and exports results as a CSV file.  
 `JavaScript` · `Browser Console` · `GraphQL`
 
 ---
 
-### 📚 [PixelBooks](https://github.com/sebachacón/pixelbooks)
+### 📚 [PixelBooks](https://github.com/SebasChakon/pixelbooks)
 A virtual library platform designed for students who need quick access to academic and general reading resources. Features a full catalog, personal collections, and user profiles.  
 `Java Servlets` · `JSP` · `MySQL` · `Bootstrap` · `Tomcat`
 
 ---
 
-### 🧘 [CampusZen](https://github.com/sebachacón/campuszen)
+### 🧘 [CampusZen](https://github.com/SebasChakon/campuszen)
 A student productivity tool for managing tasks, exams, and schedules with calendar integration and notifications — all in one place.  
 `Java Servlets` · `JSP` · `MySQL` · `Bootstrap` · `Tomcat`
 
@@ -49,7 +49,7 @@ A full-featured medical management web app connecting patients and doctors. Incl
 
 ---
 
-### ⚽ [HeadFull Soccer](https://github.com/sebachacón/headfull-soccer)
+### ⚽ [HeadFull Soccer](https://github.com/SebasChakon/headfull-soccer)
 A 3D arcade soccer game featuring characters with comically oversized heads, physics-driven gameplay, and power-ups. Currently in development.  
 `Unity` · `C#`
 
