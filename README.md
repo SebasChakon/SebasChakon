@@ -38,7 +38,7 @@
 
 ## 🔬 Featured Projects
 
-### 🔍 Instagram Unfollowers Checker
+### 🔍 [Instagram Unfollowers Checker](https://gist.github.com/SebasChakon/b7f8636e019dbb00e6ee663a957aad14)
 - Vanilla JS script running directly in the browser console
 - Uses Instagram's internal GraphQL API to paginate your following list
 - 📥 Auto-downloads a CSV with full account details
@@ -48,7 +48,7 @@
 
 ---
 
-### 📚 [PixelBooks](https://github.com/sebachacón/pixelbooks)
+### 📚 [PixelBooks](https://github.com/SebasChakon/PixelBooks)
 - Virtual library platform built for students
 - Full book catalog with personal collection support
 - User profile management
@@ -58,7 +58,7 @@
 
 ---
 
-### 🧘 [CampusZen](https://github.com/sebachacón/campuszen)
+### 🧘 [CampusZen](https://github.com/SebasChakon/CampusZen)
 - Student productivity tool for managing academic life
 - Task tracking, exam scheduling, and timetable management
 - Calendar integration and smart notifications
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏥 [CSS Clinic](https://rendeerr.onrender.com)
+### 🏥 [CSS Clinic](https://github.com/SebasChakon/CSS-Clinic)
 - Full-featured medical management web platform
 - Appointment booking with status workflow (Pending → Confirmed → Completed)
 - 💬 Real-time patient–doctor messaging
@@ -78,7 +78,7 @@
 
 ---
 
-### ⚽ HeadFull Soccer *(In Development)*
+### ⚽ [HeadFull Soccer](https://github.com/SebasChakon/HeadFull-Soccer)
 - 3D arcade soccer game with oversized-head characters
 - Physics-driven gameplay and power-up system
 - Built from scratch in Unity
