@@ -13,16 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasChakon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ndw9d78te5d6gf6t1r7yr4wor">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ndw9d78te5d6gf6t1r7yr4wor&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java" />
