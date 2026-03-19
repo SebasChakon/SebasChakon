@@ -90,8 +90,8 @@
 
 ---
 
-### ⚽ [HeadFull Soccer](https://github.com/SebasChakon/HeadFull-Soccer)
-- 3D arcade soccer game with oversized-head characters
+### ⚽ [HeadFull Football](https://github.com/SebasChakon/HeadFull-Football)
+- 3D arcade Football game with oversized-head characters
 - Physics-driven gameplay and power-up system
 - Built from scratch in Unity
 
