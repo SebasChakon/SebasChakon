@@ -1,15 +1,16 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sebastian Chacón</h1>
 <h3 align="center">Systems Engineering Student | Full-Stack Developer | Game Dev Enthusiast | Agile Practitioner</h3>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SebasChakon.SebasChakon&"  />
 </div>
 
+###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ndw9d78te5d6gf6t1r7yr4wor">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ndw9d78te5d6gf6t1r7yr4wor&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasChakon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasChakon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
