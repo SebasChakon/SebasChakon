@@ -6,13 +6,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SebasChakon.SebasChakon&"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasChakon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-Data%20%26%20Scripting-blue?style=for-the-badge&logo=python" />
