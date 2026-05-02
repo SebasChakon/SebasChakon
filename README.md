@@ -56,7 +56,7 @@
 - Virtual library platform built for students
 - Full book catalog with personal collection support
 - User profile management
-- *(Distributed system migration coming soon)*
+- *(Remake coming soon)*
 
 `Java Servlets` · `JSP` · `MySQL` · `Bootstrap` · `Tomcat`
 
@@ -88,6 +88,16 @@
 - Built from scratch in Unity
 
 `Unity` · `C#`
+
+---
+
+### 🎮 [ConcurRace](https://github.com/SebasChakon/Concurrace)
+* Browser-based educational game about concurrency problems in distributed systems
+* 3 progressive levels: concept matching, term definitions, and situational Q&A
+* Randomized questions, per-answer explanations, and a full scoring breakdown
+* Zero dependencies — open `index.html` and play
+
+`HTML` · `CSS` · `Vanilla JS`
 
 ---
 
