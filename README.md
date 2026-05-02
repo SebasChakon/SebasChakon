@@ -91,7 +91,7 @@
 
 ---
 
-### 🎮 [ConcurRace](https://github.com/SebasChakon/Concurrace)
+### 🎮 [Concurrace](https://github.com/SebasChakon/Concurrace)
 * Browser-based educational game about concurrency problems in distributed systems
 * 3 progressive levels: concept matching, term definitions, and situational Q&A
 * Randomized questions, per-answer explanations, and a full scoring breakdown
