@@ -42,6 +42,9 @@
 
 ### ⏱️ Actvidad Reciente
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 ## 🔬 Featured Projects
