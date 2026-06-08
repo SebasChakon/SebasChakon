@@ -43,16 +43,16 @@
 ### ⏱️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SebasChakon/miPrimerRepo/pull/5) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-2. 🔒 Closed issue [#4](https://github.com/SebasChakon/miPrimerRepo/issues/4) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-3. 💪 Opened PR [#5](https://github.com/SebasChakon/miPrimerRepo/pull/5) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-4. ❗ Opened issue [#4](https://github.com/SebasChakon/miPrimerRepo/issues/4) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-5. 🔒 Closed issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-6. ❗ Opened issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-7. ℹ️ Assigned issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-8. ❗ Opened issue [#2](https://github.com/SebasChakon/miPrimerRepo/issues/2) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-9. 🎉 Merged PR [#1](https://github.com/SebasChakon/miPrimerRepo/pull/1) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
-10. 💪 Opened PR [#1](https://github.com/SebasChakon/miPrimerRepo/pull/1) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+1. 🔒 Closed issue [#1](https://github.com/SebasChakon/miTercerRepo/issues/1) in [SebasChakon/miTercerRepo](https://github.com/SebasChakon/miTercerRepo)
+2. ❗ Opened issue [#1](https://github.com/SebasChakon/miTercerRepo/issues/1) in [SebasChakon/miTercerRepo](https://github.com/SebasChakon/miTercerRepo)
+3. 🎉 Merged PR [#5](https://github.com/SebasChakon/miPrimerRepo/pull/5) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+4. 🔒 Closed issue [#4](https://github.com/SebasChakon/miPrimerRepo/issues/4) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+5. 💪 Opened PR [#5](https://github.com/SebasChakon/miPrimerRepo/pull/5) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+6. ❗ Opened issue [#4](https://github.com/SebasChakon/miPrimerRepo/issues/4) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+7. 🔒 Closed issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+8. ❗ Opened issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+9. ℹ️ Assigned issue [#3](https://github.com/SebasChakon/miPrimerRepo/issues/3) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
+10. ❗ Opened issue [#2](https://github.com/SebasChakon/miPrimerRepo/issues/2) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
