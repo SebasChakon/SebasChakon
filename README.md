@@ -40,7 +40,7 @@
 
 ---
 
-### ⏱️ Actvidad Reciente
+### ⏱️ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/SebasChakon/miPrimerRepo/pull/5) in [SebasChakon/miPrimerRepo](https://github.com/SebasChakon/miPrimerRepo)
